@@ -1,4 +1,4 @@
-events/
+/events
 layers/**/*.class
 *lock.json
 
